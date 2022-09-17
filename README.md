@@ -19,3 +19,5 @@ To learn more visit: [What the heck is Git GUI](https://help.github.com/en/deskt
 - Add anything you want to your repo
 - Follow through all the GitHub workflow you know using the GUI (commit, branching, pulling, pushing etc)
 - Share a screenshot of your experience using github desktop on the issue created in prior challenges
+
+_Scaler September Open Source Challenge_ ( 17 / 30 )
